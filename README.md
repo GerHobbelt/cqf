@@ -1,5 +1,6 @@
 # cqf
-A General-Purpose Counting Filter: Counting Quotient Filter (CQF)
+
+[A General-Purpose Counting Filter: Counting Quotient Filter (CQF)](https://dl.acm.org/doi/10.1145/3035918.3035963)
 
 This work appeared at SIGMOD 2017. If you use this software please cite us:
 ```
