@@ -2,7 +2,7 @@
  * Copyright 2011 Bradley C. Kuszmaul
  */
 
-#include "include/zipf.h"
+#include "zipf.h"
 #include <math.h>
 #include <assert.h>
 #include <stdlib.h>

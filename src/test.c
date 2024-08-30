@@ -19,9 +19,9 @@
 #include <unistd.h>
 #include <openssl/rand.h>
 
-#include "include/gqf.h"
-#include "include/gqf_int.h"
-#include "include/gqf_file.h"
+#include "gqf.h"
+#include "gqf_int.h"
+#include "gqf_file.h"
 
 int main(int argc, char **argv)
 {
